@@ -9,5 +9,3 @@ sudo docker run -d -p 8000:8000 -p 9000:9000 --name portainer --restart=always -
 
 echo "Pontainer agora está instalado e em execução."
 echo "Você pode acessá-lo em http://seu_url:9000"
-echo "Nome de usuário padrão: admin"
-echo "Senha padrão: password"
